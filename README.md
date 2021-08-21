@@ -2,7 +2,7 @@
 
 ---------------
 
-## A presentation and interactive coding & IoT activity for Cisco DevNet.
+## A Presentation and Interactive Coding & IoT Activity for Cisco DevNet.
 
 ---
 
