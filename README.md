@@ -33,7 +33,7 @@ In my never-ending quest for peak efficiency (emphasis on never-ending), I’ve 
 
 o	Bell x 3
 
- ![alt text](image.jpg)
+![bells-sm](https://user-images.githubusercontent.com/27918923/130514323-ffc52509-00d8-4851-ac73-80bf04180a6c.jpeg)
 
 o	Rack with hooks (for holding rope on top of bells) x 1
 
