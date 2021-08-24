@@ -31,17 +31,17 @@ In my never-ending quest for peak efficiency (emphasis on never-ending), I’ve 
 
 - **Equipment**
 
-	o	Bell x 3
+	-	Bell x 3
 
 	<img src="https://user-images.githubusercontent.com/27918923/130514323-ffc52509-00d8-4851-ac73-80bf04180a6c.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
 
-	o	Rack with hooks (for holding rope on top of bells) x 1
+	-	Rack with hooks (for holding rope on top of bells) x 1
 
-	o	Raspberry Pi 4B
+	-	Raspberry Pi 4B
 
-	o	Sensor for measuring sound / frequency (a list of search results can be found here). I will most likely go with the Pimoroni model that fits with the breakout board I already have for the Raspberry Pi.
+	-	Sensor for measuring sound / frequency (a list of search results can be found here). I will most likely go with the Pimoroni model that fits with the breakout board I already have for the Raspberry Pi.
 
-	o	Cat 5/6 Ethernet x 1
+	-	Cat 5/6 Ethernet x 1
 
 
 
