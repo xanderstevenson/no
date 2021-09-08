@@ -39,11 +39,14 @@ In my never-ending quest for peak efficiency (emphasis on never-ending), I’ve 
 
 	-	Raspberry Pi 4B
 
-	-	[QuadMic 4-Microphone Array for Raspberry Pi](https://makersportal.com/shop/quadmic-4-microphone-array) - sensor for measuring sound / frequency. The QuadMic Array is a 4-microphone array based around the AC108 quad-channel analog-to-digital converter (ADC) with Inter-IC Sound (I2S) audio output capable of interfacing with the Raspberry Pi. The QuadMic can be used for applications in voice detection and recognition, acoustic localization, noise control, and other applications in audio and acoustic analysis. 
+	-	[QuadMic 4-Microphone Array for Raspberry Pi](https://makersportal.com/shop/quadmic-4-microphone-array) x 1 - sensor for measuring sound / frequency. The QuadMic Array is a 4-microphone array based around the AC108 quad-channel analog-to-digital converter (ADC) with Inter-IC Sound (I2S) audio output capable of interfacing with the Raspberry Pi. The QuadMic can be used for applications in voice detection and recognition, acoustic localization, noise control, and other applications in audio and acoustic analysis. 
 
-	-	Cat 5/6 Ethernet x 1
+	<img src="https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1610935558030-QZA5VMICYJBRCMOZ0FGS/quadmic_bottom.JPG?format=2500w" width="200" height="200" />
 
 
+	-	Cat 5/6 Ethernet or WiFi connection x 1
+
+https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1610935558030-QZA5VMICYJBRCMOZ0FGS/quadmic_bottom.JPG?format=2500w
 
 - **Language**: Python
 
