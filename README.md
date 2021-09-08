@@ -33,7 +33,7 @@ In my never-ending quest for peak efficiency (emphasis on never-ending), I’ve 
 
 	-	Bell x 3
 
-	<img src="https://user-images.githubusercontent.com/27918923/130514323-ffc52509-00d8-4851-ac73-80bf04180a6c.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
+		<img src="https://user-images.githubusercontent.com/27918923/130514323-ffc52509-00d8-4851-ac73-80bf04180a6c.jpeg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="300" />
 
 	-	Rack with hooks (for holding rope on top of bells) x 1
 
@@ -41,7 +41,7 @@ In my never-ending quest for peak efficiency (emphasis on never-ending), I’ve 
 
 	-	[QuadMic 4-Microphone Array for Raspberry Pi](https://makersportal.com/shop/quadmic-4-microphone-array) x 1 - sensor for measuring sound / frequency. The QuadMic Array is a 4-microphone array based around the AC108 quad-channel analog-to-digital converter (ADC) with Inter-IC Sound (I2S) audio output capable of interfacing with the Raspberry Pi. The QuadMic can be used for applications in voice detection and recognition, acoustic localization, noise control, and other applications in audio and acoustic analysis. 
 
-	<img src="https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1610935558030-QZA5VMICYJBRCMOZ0FGS/quadmic_bottom.JPG?format=2500w" width="300" height="200" />
+		<img src="https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1610935558030-QZA5VMICYJBRCMOZ0FGS/quadmic_bottom.JPG?format=2500w" width="300" height="200" />
 
 
 	-	Cat 5/6 Ethernet or WiFi connection x 1
